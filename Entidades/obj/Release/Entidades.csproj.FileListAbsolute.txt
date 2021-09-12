@@ -1,0 +1,6 @@
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\bin\Release\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\bin\Release\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Release\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Release\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache

@@ -1,0 +1,30 @@
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Entidades\bin\Debug\Entidades.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Entidades\obj\Debug\Entidades.pdb

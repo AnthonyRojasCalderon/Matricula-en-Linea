@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{797FD2A3-CD72-4CD3-82D9-1CAF0E39778C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\WCFService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="frmAulas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAulas.Designer.cs">
+      <DependentUpon>frmAulas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambioContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambioContrasena.Designer.cs">
+      <DependentUpon>frmCambioContrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarreras.Designer.cs">
+      <DependentUpon>frmCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaterias.Designer.cs">
+      <DependentUpon>frmMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCongelarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCongelarEstudiante.Designer.cs">
+      <DependentUpon>frmCongelarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMatriculaEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMatriculaEstudiante.Designer.cs">
+      <DependentUpon>frmMatriculaEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfesores.Designer.cs">
+      <DependentUpon>frmProfesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistro.Designer.cs">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarios.Designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestor_Conexiones.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RptEstadoAulas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptEstadoAulas.Designer.cs">
+      <DependentUpon>RptEstadoAulas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptUsuario_x_Clave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptUsuario_x_Clave.Designer.cs">
+      <DependentUpon>rptUsuario_x_Clave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptProfesores.Designer.cs">
+      <DependentUpon>rptProfesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptMaterias.Designer.cs">
+      <DependentUpon>RptMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptUsuarios.Designer.cs">
+      <DependentUpon>RptUsuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAulas.resx">
+      <DependentUpon>frmAulas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambioContrasena.resx">
+      <DependentUpon>frmCambioContrasena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarreras.resx">
+      <DependentUpon>frmCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaterias.resx">
+      <DependentUpon>frmMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCongelarEstudiante.resx">
+      <DependentUpon>frmCongelarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMatriculaEstudiante.resx">
+      <DependentUpon>frmMatriculaEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfesores.resx">
+      <DependentUpon>frmProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistro.resx">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RptEstadoAulas.resx">
+      <DependentUpon>RptEstadoAulas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptUsuario_x_Clave.resx">
+      <DependentUpon>rptUsuario_x_Clave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptProfesores.resx">
+      <DependentUpon>rptProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptMaterias.resx">
+      <DependentUpon>RptMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptUsuarios.resx">
+      <DependentUpon>RptUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Connected Services\WCFService\Service1.wsdl" />
+    <None Include="Connected Services\WCFService\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\WCFService\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\WCFService\Service12.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{28040d32-80ab-4fdd-9bca-8900040ae47c}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{bd84ccd9-4abf-4487-8506-82895a3755b9}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\matricula-en-linea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\WCFService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WCFService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WCFService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WCFService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

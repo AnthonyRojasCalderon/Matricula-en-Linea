@@ -1,0 +1,42 @@
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Servicios.dll.config
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Servicios.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Servicios.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\bin\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Servicios.dll.config
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Servicios.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Servicios.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Negocio.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Acceso.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Negocio.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\bin\Acceso.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Servicios.dll.config
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Servicios.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Servicios.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Entidades.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Negocio.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Acceso.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Entidades.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Negocio.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Acceso.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\obj\Debug\Servicios.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Servicios\bin\Acceso.dll.config

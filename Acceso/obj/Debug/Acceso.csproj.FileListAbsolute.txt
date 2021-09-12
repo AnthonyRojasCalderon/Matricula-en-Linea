@@ -1,0 +1,60 @@
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\bin\Debug\Acceso.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\bin\Debug\Acceso.pdb
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\bin\Debug\Entidades.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\bin\Debug\Entidades.pdb
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\obj\Debug\Acceso.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Acceso\obj\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\obj\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Acceso\obj\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\obj\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Acceso\obj\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\bin\Debug\Entidades.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\obj\Debug\Acceso.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Acceso\bin\Debug\Acceso.dll.config

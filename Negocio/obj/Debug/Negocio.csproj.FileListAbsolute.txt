@@ -1,0 +1,74 @@
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\bin\Debug\Negocio.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\bin\Debug\Acceso.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\bin\Debug\Entidades.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\bin\Debug\Acceso.pdb
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\obj\Debug\Negocio.dll
+C:\Users\Programacion\source\repos\EjemploAutenticacion\Negocio\obj\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\bin\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\bin\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\obj\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\EjemploAutenticacion\Negocio\obj\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\bin\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\bin\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\obj\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel Salas Cordero\EjemploAutenticacion\Negocio\obj\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.pdb
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.dll
+C:\Users\joels\Desktop\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.pdb
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.dll
+C:\Users\AllamMauricio\Desktop\Proyecto Joel\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Negocio.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Entidades.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.dll
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\obj\Debug\Negocio.pdb
+D:\Documentos UAM\Programacion III\Proyecto 2 Progra 3\Proyecto Matricula en Linea\Negocio\bin\Debug\Acceso.dll.config
